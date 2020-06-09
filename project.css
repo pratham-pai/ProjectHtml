@@ -1,0 +1,139 @@
+body{
+  
+background-color: #66b3ff;
+
+}
+
+
+
+
+li{
+
+  list-style: none;
+
+}
+
+
+
+header{
+
+  background-color: #3333cc;
+
+  color: #fff;
+
+  height: 90px;
+
+}
+
+
+
+.logo{
+
+  float: left;
+
+  font-size: 40px;
+
+  padding: 20px 40px;
+
+  color: red;
+
+
+}
+
+
+
+.list li{
+
+  float: right;
+
+  padding: 33px 20px;
+
+  color: #ffffcc;
+
+}
+
+
+
+.content h1{
+
+  font-size: 100px;
+
+  color: #00ff00;
+
+  padding: 30px;
+
+  text-align: center;
+
+  opacity: 0.8;
+
+}
+
+
+
+.middle{
+
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+
+}
+
+
+
+.content h2{
+
+  font-size: 50px;
+
+  padding: 10px;
+
+  color: #ff0066;
+
+  text-align: center;
+
+  opacity: 0.6;
+
+}
+
+
+
+.about p{
+
+  font-size: 40px;
+
+  color: #ffff33;
+
+  text-align: center;
+
+}
+
+
+
+span{
+
+  color: #00e6e6;
+
+}
+
+
+
+footer{
+
+  background-color: #ff9900;
+
+  height: 80px;
+
+  opacity: 0.6;
+
+}
+
+
+
+.social a{
+
+  color: blue;
+
+  padding: 20px;
+
+  font-size: 40px;
+
+  float: right;
+
+}
